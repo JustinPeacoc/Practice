@@ -1,2 +1,2 @@
-# FED1StudioProject
+# FED1
 This is for a small business
